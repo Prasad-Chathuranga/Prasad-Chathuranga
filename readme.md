@@ -23,7 +23,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue)
+![Vue](https://img.shields.io/badge/-Vuejs?style=flat-square&logo=vue)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
