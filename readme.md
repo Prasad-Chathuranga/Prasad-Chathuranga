@@ -11,8 +11,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad-Chathuranga&layout=compact)
 
 <!--
-⚡ Graduated From [SLIIT](https://www.sliit.lk) <br/>
-⚡ Activity Director of Media & Publications [ Leo Club of SLIIT ](https://github.com/sliit-foss) <br/>
+🚩 GitHub Campus Expert [Profile](https://githubcampus.expert/Safnaj/) <br/>
+⚡ Final Year Undergraduate at [SLIIT](https://www.sliit.lk) <br/>
+⚡ Software Engineering Intern at [Virtusa](https://www.virtusa.com/) <br/>
+⚡ President of [SLIIT FOSS Community](https://github.com/sliit-foss) <br/>
 ⚡ Full-Stack Developer <br/> -->
 
 
