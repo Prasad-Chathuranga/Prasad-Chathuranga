@@ -1,19 +1,19 @@
-### Hi there, I'm Prasad Chathuranga 👋
+### Hello there, I'm Prasad Chathuranga 👋
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iamSafnaj/)](https://twitter.com/iamSafnaj/)
-[![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/iam_safnaj)](https://www.instagram.com/iam_safnaj)
-[![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ahamed.safnaj)](https://www.facebook.com/ahamed.safnaj)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahamed-safnaj/)](https://www.linkedin.com/in/ahamed-safnaj/)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9752928/ahamed-safnaj)](https://stackoverflow.com/users/9752928/ahamed-safnaj)
-[![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=https://ahamedsafnaj.com)](https://ahamedsafnaj.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Prasad Chathuranga/)](https://twitter.com/Prasad Chathuranga/)
+[![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/__chathuwa__)](https://www.instagram.com/__chathuwa__)
+[![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Prasad.Chathuranga.9710/)](https://www.facebook.com/Prasad.Chathuranga.9710/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasad-chathuranga-371024191/)](https://www.linkedin.com/in/prasad-chathuranga-371024191/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10854447/prasad-chathuranga)](https://stackoverflow.com/users/10854447/prasad-chathuranga)
+
 
 ![Prasad's github stats](https://github-readme-stats.vercel.app/api?username=Prasad-Chathuranga&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad-Chathuranga&layout=compact)
 
 
-⚡ Graduated from [ SLIIT ](https://www.sliit.lk) <br/>
-⚡ Full Stack Developer at [ OnetcoLanka ](https://www.onetcolanka.com/) <br/>
-⚡ Activity Director of Media & Publications at [ Leo Club of SLIIT ](https://sliitleos.org) <br/> 
+ 🔰  Graduated from [ SLIIT ](https://www.sliit.lk) <br/>
+ 🔰  Full Stack Developer at [ OnetcoLanka ](https://www.onetcolanka.com/) <br/>
+ 🔰  Activity Director of Media & Publications at [ Leo Club of SLIIT ](https://sliitleos.org) <br/> 
 
 
 ### Skills : <br/>
