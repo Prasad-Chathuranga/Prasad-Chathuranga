@@ -11,7 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad-Chathuranga&layout=compact)
 
 
-⚡ Graduated from Sri Lanka Institute of Information Technology [ SLIIT ](https://www.sliit.lk) <br/>
+⚡ Graduated from [ SLIIT ](https://www.sliit.lk) <br/>
 ⚡ Full Stack Developer at [ OnetcoLanka ](https://www.onetcolanka.com/) <br/>
 ⚡ Activity Director of Media & Publications at [ Leo Club of SLIIT ](https://sliitleos.org) <br/> 
 
@@ -23,6 +23,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Vue](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=vue)
+![Django](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=django)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
