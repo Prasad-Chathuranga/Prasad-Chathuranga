@@ -10,12 +10,10 @@
 ![Prasad's github stats](https://github-readme-stats.vercel.app/api?username=Prasad-Chathuranga&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad-Chathuranga&layout=compact)
 
-<!--
-🚩 GitHub Campus Expert [Profile](https://githubcampus.expert/Safnaj/) <br/>
-⚡ Final Year Undergraduate at [SLIIT](https://www.sliit.lk) <br/>
-⚡ Software Engineering Intern at [Virtusa](https://www.virtusa.com/) <br/>
-⚡ President of [SLIIT FOSS Community](https://github.com/sliit-foss) <br/>
-⚡ Full-Stack Developer <br/> -->
+
+⚡ Graduated from Sri Lanka Institute of Information Technology [ SLIIT ](https://www.sliit.lk) <br/>
+⚡ Full Stack Developer at [ OnetcoLanka ](https://www.onetcolanka.com/) <br/>
+⚡ Activity Director of Media & Publications at [ Leo Club of SLIIT ](https://sliitleos.org) <br/> 
 
 
 ### Skills : <br/>
@@ -33,10 +31,5 @@
 ![Wordpress](https://img.shields.io/badge/Wordpress-1572B6?style=flat-square&logo=wordpress)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-02569B?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
