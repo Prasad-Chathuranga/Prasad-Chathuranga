@@ -11,9 +11,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad-Chathuranga&layout=compact)
 
 
-✪    Graduated from [ SLIIT ](https://www.sliit.lk) <br/>
-✪    Full Stack Developer at [ OnetcoLanka ](https://www.onetcolanka.com/) <br/>
-✪    Activity Director of Media & Publications at [ Leo Club of SLIIT ](https://sliitleos.org) <br/> 
+✪   &nbsp; Graduated from [ SLIIT ](https://www.sliit.lk) <br/>
+✪   &nbsp; Full Stack Developer at [ OnetcoLanka ](https://www.onetcolanka.com/) <br/>
+✪   &nbsp; Activity Director of Media & Publications at [ Leo Club of SLIIT ](https://sliitleos.org) <br/> 
 
 
 ### Skills : <br/>
