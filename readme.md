@@ -1,6 +1,6 @@
 ### Hello there, I'm Prasad Chathuranga 👋
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Prasad Chathuranga/)](https://twitter.com/Prasad Chathuranga/)
+[![Twitter](https://img.shields.io/badge/Twitter-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.twitter.com/PrasadC73326554)](https://www.twitter.com/PrasadC73326554)
 [![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/__chathuwa__)](https://www.instagram.com/__chathuwa__)
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Prasad.Chathuranga.9710/)](https://www.facebook.com/Prasad.Chathuranga.9710/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasad-chathuranga-371024191/)](https://www.linkedin.com/in/prasad-chathuranga-371024191/)
@@ -11,9 +11,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad-Chathuranga&layout=compact)
 
 
- 🔰  Graduated from [ SLIIT ](https://www.sliit.lk) <br/>
- 🔰  Full Stack Developer at [ OnetcoLanka ](https://www.onetcolanka.com/) <br/>
- 🔰  Activity Director of Media & Publications at [ Leo Club of SLIIT ](https://sliitleos.org) <br/> 
+✪   Graduated from [ SLIIT ](https://www.sliit.lk) <br/>
+✪   Full Stack Developer at [ OnetcoLanka ](https://www.onetcolanka.com/) <br/>
+✪   Activity Director of Media & Publications at [ Leo Club of SLIIT ](https://sliitleos.org) <br/> 
 
 
 ### Skills : <br/>
