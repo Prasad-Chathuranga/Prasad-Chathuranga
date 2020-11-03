@@ -7,8 +7,8 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9752928/ahamed-safnaj)](https://stackoverflow.com/users/9752928/ahamed-safnaj)
 [![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=https://ahamedsafnaj.com)](https://ahamedsafnaj.com)
 
-![Prasad's github stats](https://github-readme-stats.vercel.app/api?username=Safnaj&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safnaj&layout=compact)
+![Prasad's github stats](https://github-readme-stats.vercel.app/api?username=Prasad-Chathuranga&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad-Chathuranga&layout=compact)
 
 <!--
 ⚡ Graduated From [SLIIT](https://www.sliit.lk) <br/>
