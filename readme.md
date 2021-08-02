@@ -12,7 +12,7 @@
 
 
 ✪   &nbsp; Graduated from [ SLIIT ](https://www.sliit.lk) <br/>
-✪   &nbsp; Full Stack Developer at [ OnetcoLanka ](https://www.onetcolanka.com/) <br/>
+✪   &nbsp; Associate Software Engineer at [ IdealSoft ](https://idealsoft.lk) <br/>
 ✪   &nbsp; Activity Director of Media & Publications at [ Leo Club of SLIIT ](https://sliitleos.org) <br/> 
 
 
